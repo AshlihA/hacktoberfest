@@ -1,26 +1,26 @@
 # Your Name
-Abhay Gawade
+Ashlih Al Tsabat
 
 ### Location
 
-Pune, India 
+Semarang, Indonesia
 
 ### Academics
 
-Rajendra Mane College of Engineering and Technology, Ambav
+Student of 3 Junior High School (SMAN 3) Semarang
 
 ### Interests
 
-- Cycling, Exploring and Coding
+- Sporting like football, badminton, and i like coding too
 
 ### Development
 
-- Inventor of the My Pillow
+- Be the winner
 
 ### Projects
 
-- [showModalDialog](https://github.com/abhaygawade/showmodaldialog) Alternate Implementation of window.showModalDialog
+- Some apps that make Indonesia better, just expectation, and my dream
 
 ### Profile Link
 
-[Abhay Gawade](https://github.com/abhaygawade)
+[AshlihA](https://github.com/AshlihA)
